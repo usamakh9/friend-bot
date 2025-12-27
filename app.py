@@ -1,0 +1,78 @@
+import streamlit as st
+from google import genai
+from google.genai import types
+import os
+
+# --- CONFIGURATION ---
+st.set_page_config(page_title="FriendBot", page_icon="💬")
+st.title("💬 Chat with 'FriendBot'")
+
+# --- 1. SETUP API & LOAD DATA ---
+# (Best practice: Store your key in a .env file or Streamlit secrets for production)
+
+import os
+
+# Try to get the key from Streamlit secrets, otherwise from environment variables
+try:
+    API_KEY = st.secrets["GEMINI_API_KEY"]
+except:
+    API_KEY = os.environ.get("GEMINI_API_KEY")
+
+@st.cache_resource
+def get_client():
+    return genai.Client(api_key=API_KEY)
+
+@st.cache_resource
+def load_system_instruction():
+    # Try to load the chat history file
+    try:
+        with open("chat_history.txt", "r", encoding="utf-8") as f:
+            chat_log = f.read()
+    except FileNotFoundError:
+        return "You are a helpful assistant." # Fallback if file is missing
+
+    return f"""
+    You are a chatbot simulating a person based on the attached chat logs. 
+    Your goal is to reply exactly as this person would (tone, slang, humor).
+    
+    --- CHAT HISTORY ---
+    {chat_log}
+    """
+
+client = get_client()
+system_instruction = load_system_instruction()
+
+# --- 2. INITIALIZE CHAT HISTORY ---
+# This keeps the messages on screen when the app refreshes
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+    # Start the actual Gemini chat session in the background
+    st.session_state.chat_session = client.chats.create(
+        model="gemini-1.5-flash",
+        config=types.GenerateContentConfig(
+            system_instruction=system_instruction,
+            temperature=0.7,
+        )
+    )
+
+# --- 3. DISPLAY CHAT INTERFACE ---
+# Draw previous messages
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+
+# --- 4. HANDLE USER INPUT ---
+if prompt := st.chat_input("Type a message..."):
+    # A. Display User Message
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
+    # B. Generate & Display Friend Response
+    with st.chat_message("assistant"):
+        with st.spinner("Friend is typing..."):
+            # Send message to Gemini
+            response = st.session_state.chat_session.send_message(prompt)
+            st.markdown(response.text)
+    
+    st.session_state.messages.append({"role": "assistant", "content": response.text})
