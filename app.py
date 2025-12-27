@@ -56,7 +56,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
     # Start the actual Gemini chat session in the background
     st.session_state.chat_session = client.chats.create(
-        model="gemini-2.5-flash-lite",
+        model="gemma-3-12b",
         config=types.GenerateContentConfig(
             system_instruction=system_instruction,
             temperature=0.7,
