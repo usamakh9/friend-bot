@@ -4,7 +4,7 @@ from google.genai import types
 import os
 
 # --- CONFIGURATION ---
-st.set_page_config(page_title="FriendBot", page_icon="💬")
+st.set_page_config(page_title="Chat with Usama", page_icon="💬")
 st.title("💬 Chat with 'FriendBot'")
 
 # --- 1. SETUP API & LOAD DATA ---
