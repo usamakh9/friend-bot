@@ -1,365 +1,68 @@
-sender	message
-Hadi	‎Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them.
-Hadi	Assalam o alikum
-Hadi	Bhai kesy hen ap....
-Hadi	Kasim bhai ny number dia apka wo Pakistan ma hen abi
-Shami	W. Salam
-Shami	G Alhamdulilah
-Shami	Ap sunaye
-Shami	Me abi Dort hun
-Shami	Ap kis department se hen
-Hadi	Engineering
-Shami	Kab aye hen ap Germany?
-Hadi	Ici week
-Shami	Accomodation mili?
-Hadi	Ni bhai
-Hadi	Ap k pas hy koi option with city registration?
-Shami	Unfortunately, no
-Hadi	🥲
-Hadi	Bhai ap ki wapsi kab tak?
-Shami	2 years
-Hadi	Masha Allah
-Hadi	Kal ap ny university jana?
-Hadi	Ap sy mulakaat ho jati...
-Shami	Yes. We can meet around 2 pm
-Hadi	Insha Allah
-Hadi	Jazakallah Bhai
-Shami	No problem
-Hadi	Apka department b chemistry he hy na?
-Shami	Yes
-Shami	Are you coming to university
-Hadi	Yes
-Hadi	Insha Allah milty hen ap sy
-Hadi	Ma takreeban 30.min tak aa jaonga
-Shami	Alright
-Shami	I'll be in library
-Hadi	Ok jazakallah Bhai
-Shami	😊
-Hadi	Bhai ma aa gya hon stop sy utr gya ab aa raha
-Hadi	SSC tk a gya
-Hadi	Library? Ki smjh ni aa rahi
-Hadi	?
-Hadi	Bhai ma yaha khara wait ker raha hon apka
-Hadi	Library k he bhr khara hon
+Hadi	AsslamoAlaikum
+Shami	W.salam
+Hadi	Kaya Kar rahy
+Shami	Ap se baat
+Hadi	Hehe Boht funny tha
+Shami	Muje bi lga
+Hadi	Kaya banaya aj
+Shami	Fish
+Hadi	Koi achi baat kro
+Shami	Everything will be good.
+Hadi	Kahi ghoomny jayen
+Shami	Chale jate hen. Kaha Jayen
+Hadi	Ap batao
+Shami	Muje nahi pata
+Hadi	Aik baat poocho
+Shami	G
+Hadi	Ap kon ho
+Shami	Me apka dost hun
+Hadi	Usama
+Shami	G
+Hadi	Muje tension ho rahi
+Shami	Koi nai sb theek ho jaye ga
+Hadi	Allah kary
+Shami	Hmm
+Hadi	Kaya he
+Shami	Kuch nai
+Hadi	Kaya banaya
+Shami	Abi tk to kuch nai
+Hadi	A jao
+Shami	Ok. 20 minutes tk a gya
+Hadi	Nadia
+Shami	G
+Hadi	Meri sohni sawani
+Shami	G
+Hadi	Meri bhago
+Shami	G
+Hadi	Theek hen
+Shami	g
+Hadi	Bus kafi he
 Shami	Okay
-Shami	I'm coming
-Hadi	Assalam o alikum Bhai
-Hadi	Bhai kesy hen ap...?
-Shami	W. Salam
-Shami	G Alhamdulilah
-Shami	Ap sunaye
-Hadi	Alhamdullilah
-Hadi	G bhai Allah pak ka shuker
-Hadi	Shami Bhai call ho skti?
-Shami	Sure
+Hadi	koi joke sunao
+Shami	Mere pass sunane wale nahi hen
+Hadi	Yaha pe stickers hi nahi hen
+Shami	Han - whatsapp wala maza nahi he
+Hadi	Kahi bahir chalen
+Shami	Sardi boht he
+Hadi	Shift hi change nahi ki
+Shami	Koi baat nahi
+Hadi	Ab kidr mily gi job
+Shami	Mil jaye gi kahi na kahi
+Hadi	You’re bad.
+Shami	Thanks. I know
+Hadi	You are sweet.
+Shami	Thanks
+Hadi	Mera name kaya he?
+Shami	Bhago
+Hadi	Apka name kya he
+Shami	Nadia
 Hadi	Hmm
-Hadi	Yeh 10 bjy open honi hh
-Shami	Alright
-Shami	Idr hen ap abi?
-Hadi	Hmm
-Hadi	Assalam o alikum 
-Shami	Email?
-Hadi	Ok
-Shami	What's your email address?
-Hadi	Wait
-Shami	sent
-Hadi	Extract kerna
-Shami	G
-Hadi	AoA Shami bhai juma kitny bjy hota yaha?
-Shami	2:30
-Hadi	Kidr hota
-Shami	Wasserstr. mosque he
-Hadi	Ok Bhai
-Shami	University me Uni center me 2 bje hota
-Hadi	Acha Shami bhai ap ny grocery k lia jana bhala aj?
-Shami	Kuch khas to nai lena
-Hadi	Acha chalen theek hy mjy yeh tha agr ap ny jana to ma b ap k sath kuch cheezen la lon
-Hadi	Bas yehi hy k zara ap k sath mazeed pta chal jaye halal haram ka
-Hadi	Kiu k wo allo wagera ap ny b dekhy k kharab ho gay wy hen to mjy new he leny pary gy
-Shami	Kaha se krna chahte hen ap shopping?
-Hadi	Bhai aldi sy he ker lety wohi pas paryga apko b
-Shami	Hmm... Chale a jaye
-Hadi	Ya jha sy ap kerty no problem
-Shami	Me to mostly Aldi aur Shaheen se hi krta hun
-Hadi	Ma aldi a jaon ya apki building waly stop py?
-Hadi	Bas theek hy
-Hadi	Wohi sy ker lety
-Shami	Jaha easy lge apko
-Hadi	Bhai filhal to ap bta den mjy easy kia rahy ga
-Hadi	Because mjy to phr yehi smjh aata k yaha sy university waly stop py jaon or phr waha sy markstr. Aon
-Hadi	Ok
-Shami	A rhy ap?
-Hadi	G bhai
-Hadi	A gya hon
-Hadi	Stop py ap k
-Shami	Ok.. coming
-Hadi	AOA
-Hadi	Shami bhai ap masjid ma perty juma ya uni center ma
-Shami	Uni center me
-Hadi	Ok
-Hadi	2 bjy jamat hoti ?
-Shami	G
-Shami	UFO me
-Hadi	Wazo krny ka intazam hy? By chance waha?
-Hadi	Ya ghr sy he
-Shami	He udr bhi
-Shami	But ghr se hi kr lijiye ga
-Shami	1:45 tk pohnch jaiye ga
-Hadi	Bhai yaha hota juma?
-Shami	G
-Hadi	Ok
-Hadi	Shami bhai kia jaye-namaz ghr sy lana tha?
-Shami	It's okay. Not necessary
-Hadi	Ok
-Hadi	Bhai ap ny kab tak ana bhala?
-Shami	5 minutes tak
-Shami	Aur bhi log aye hen?
-Hadi	G
-Hadi	AoA
-Hadi	Bhai kesy hen?
-Hadi	Bhai university hen ya ghr..?
-Hadi	Mulakaat ho skti
-Shami	Ghr
-Hadi	Chalen theek ho gya tab ma university tha mjy yeh tha ap waha hon shyed
-Hadi	My caah ra tha k mulakaat ho jati mjy TK ki trf sy 3 letter aye thy or 1 kisi or trf sy aya
-Hadi	To my wo apko dikha deta agr ap k pas time ho too otherwise no problem
-Shami	Chale me shaam ko a skta hun
-Hadi	G koi msla ni jb easy ap no problem 
-Shami	Chale around 9 pm mulakat kr skte hen
-Hadi	Ok
-Shami	Ap aye gen k me ao
-Hadi	Bhai jesy ap ko easy lagy
-Hadi	Mjy khty to ma aa jata
-Hadi	No problem mjy max 10 min lgny any ma
-Shami	A jayen phir
-Hadi	Ok Bhai
-Hadi	Bhai 7 min ma bus hy ma wo la k aa jata ap k pas
-Shami	Ok
-Hadi	‎Voice call, ‎Answered on other device
-Hadi	G bhai
-Hadi	Door k bhr
-Hadi	A
-Shami	Liebes Team,
-Shami	Surname hi he ... Given name khali he
-Hadi	“ FNU “is to be used all over the world for this case yehi follow hota ha generally. 
-Hadi	Bhai yehi answer aya phr mjy
-Hadi	Unho ny b yehi kha k sure name he likhna hy given name my phr FNU likhna
-Shami	Very helpful info. Thank you 😊
-Hadi	No problem Bhai
-Hadi	University ma hen?
-Shami	No
-Hadi	Acha ap prepared Sim use ker rahy ya post paid? Or konsi use ker rahy...?
-Hadi	Ok
-Shami	Prepade Aldi
-Hadi	Ok
-Shami	G wohi behtr bta skty...
-Hadi	Jazakallah Bhai
-Hadi	Yeh lazmi apply kerwa den unka
-Shami	G kaha he
-Hadi	Good ho gya
-Hadi	Shami Bhai meri tax I'd b aa gai hy....
-Shami	Chale kal kr lete hen
-Hadi	Kal holiday hy to bank open ho gy?
-Shami	Ohh... Then on Friday
-Hadi	Ok
-Shami	11, 12 bje chale gen
-Hadi	G ok Bhai
-Hadi	Assalam o alikum Bhai....
-Shami	11 bje nikalty hen
-Hadi	G ok Bhai
-Hadi	Shami bhai 11.10 py ma ap k ghr k neachy waly stop py honga
-Hadi	Insha Allah
-Shami	Alright
-Shami	A rhy?
-Hadi	Bhai jazakallah aj k lia
-Shami	No problem
-Hadi	Important Note at Time of Submission:
-Hadi	Yeh at the time if submission yani after joining waiting list and completion of waiting time then next process is submission option.
-Hadi	Shami Bhai kahi bhr akely nikal rahy hon ya university ja k bethna ho ap ny study k Library to agr munasib smjha kren to mjy b sath la lia kren 
-Shami	Alright
-Hadi	Thank you Bhai
-Hadi	Assalam o alikum Bhai 
-Shami	I'm sorry, I'm going somewhere
-Hadi	It's okay
-Shami	Ye Nadra se bn'na he ya union council se?
-Shami	Hmm
-Hadi	Union council waly extra la lety pesy
-Hadi	Ic lia nadra ya Union council jha py ap k lia easy hy waha sy banwa len
-Shami	Right
-Hadi	Shami Bhai
-Hadi	Letter of motivation likha ap ny embassy k lia?
-Shami	Abhi likhna he
-Hadi	Ma ic lia bol raha tha k ap documentation complete ker len or as soon as possible apply ker den
-Hadi	Rash lag jana winter k lia or apko b pta k winter ma admissions zyada hoty duniaya k
-Shami	G paise mangwane ghr se
-Shami	Koi a raha apke jan'ne wala coming days me
-Hadi	Abi to ni but 1,2 larky lagy wy appointment ki line ma
-Hadi	1 ya 2 hafto ma aa jayegi unki appointment
-Shami	Kaha se hen wo?
-Hadi	O bhai salman bhai aa rahy Pakistan sy abi
-Hadi	I think 29 , 30 ko aye gy
-Shami	Kaha se he wo bhla?
-Hadi	Jhang sy hen shyed lakin ap un sy rabta to ker k dekh len
-Hadi	Might be possible koi scene ban jaye
-Shami	Hmm
-Hadi	Kiu k jaldi to wohi aa rahy
-Shami	Uss ka number share krna
-Hadi	Kitny pesy munghwany al ny?
-Shami	3000 Euro
-Hadi	Sahi
-Shami	Hmm
-Shami	10000 euro tak bnda la skta... No issue
-Shami	Me a gya hun... Wapis
-Shami	Hmm... Let's see
-Hadi	Ma ny suba bas ici lia bola tha kiu k wesy he ghr reh k to ajeeb c kefiyat hoti
-Shami	Hmm
-Shami	idr kr den apply Herne me
-Hadi	G ok
-Hadi	Yani new jobs ni apply ho rahi 
-Hadi	Or Shami Bhai bank walo ny koi b paper ni tha dena?
-Shami	G
-Shami	Letter a jaye ga
-Hadi	At that time kuch b nai milta? Jab ham ny signature ker k dia thy
-Hadi	G ok Bhai
-Shami	letter aye ga…phir pin aye ga uss me to active ho jaye ga…
-Hadi	G ok Bhai
-Hadi	Shami Bhai
-Shami	G
-Hadi	Bhai job py gay howy aj ya ghr hen...
-Shami	Job p
-Hadi	Ok Bhai
-Shami	Aya letter?
-Shami	Kya update he
-Hadi	2 letter aye hen aj
-Hadi	Ma wesy b caah raha tha ap sy 1 mulakaat ho jaye
-Shami	Bank k?
-Hadi	G
-Shami	Can you share the pics?
-Hadi	Letter ✉️ band hen or wo andr sy b seal hen
-Hadi	Or black bary bary bar-code hen kahi kharab na ho jy opening ma
-Shami	Hmm.. pin ho ga
-Hadi	Ho skta job k bud aj time ho ga ap k pas ya mushkil hy?
-Shami	Me wapis a raha
-Shami	1 hour tk a jaiya ga
-Hadi	G ok bhai jazakallah
-Shami	Shaam ko milte hen...
-Shami	Abi muje neend a rahi
-Hadi	G ok Bhai
-Hadi	No issue
-Shami	A jaiye ga... Jab ap free hon
-Hadi	Bhai g...
-Shami	A jaye 10-15 minutes tak
-Hadi	G ok bhai
-Shami	Me abi aldi a gya hun to 10 minutes lag jane
-Hadi	Ma b aa raha adli bro no issue
-Hadi	Shami Shami
-Hadi	Assalam o alikum Bhai 
-Shami	Wassterstr
-Hadi	Ok ho gya
-Hadi	Kitny bjy nikalny ka irada apka
-Shami	1:15
-Hadi	Ok Bhai
-Hadi	Ok. Bhai I'll reach there insha Allah
-Hadi	Assalam o alikum
-Hadi	Shami Bhai kesy hen..?
-Hadi	Bhai agr mulakaat kerni ho ap sy to kab or kha possible..?
-Shami	G Alhamdulilah
-Shami	Yr aj me frankfurt aya huwa hu aur kal Meri shift he
-Hadi	G chalen theek hy koi issue ni bud ma sahi ap easily kren kaam
-Hadi	Shami Bhai mjy b share ker dena solutions exercises k
-Hadi	Jazakallah
-Shami	Sent
-Hadi	Jazakallah bhai
-Shami	Sath me exercises bhi hen
-Shami	Hetero cycle k folder me
-Hadi	Ok ho gya bhai
-Shami	No problem
-Shami	Online bhi ho jata... Diya ho ga link
-Shami	G a gya hu
-Shami	Uni center hi prh len gen
-Hadi	Ok
-Hadi	Shami bhai uni center ma kitny bjy hota juma
-Shami	2 bje
-Hadi	Ok
-Hadi	Assalam o alikum 
-Hadi	Bhai aj ki apki kia masroofiyat hy..?
-Shami	W. S.
-Shami	Shift p aya hun
-Hadi	Picnic...?
-Hadi	Ok ok Bhai
-Shami	G
-Shami	Wah Hadi sb wah
-Hadi	🙃
-Hadi	Shami Bhai free ho k btana  agr aj time howa ap k pas to
-Shami	Ok
-Shami	Ap msg kr diya kren, jo baat ho
-Hadi	G ok
-Hadi	Icka b btaiye ga
-Hadi	Ok Bhai
-Shami	Chalo chale jaye gen
-Hadi	Jazakallah
-Shami	Check kr lena, kaha p he
-Hadi	AOA
-Hadi	Shami bhai kesy hen...
-Hadi	Yeh kesy kerni hoti
-Shami	Ye kya he
-Hadi	Revolute ki verification bop raha
-Hadi	Okie 
-Shami	12 bje
-Hadi	Ok
-Hadi	Ooh okay
-Shami	Kab nikly?
-Hadi	Jb Bhai ap khty 12 k bud jab b ap khty ma aa jaonga ap k pas
-Shami	Chale a jaiye ga... Me bhi 10 minutes tak ready ho jata hu
-Hadi	Ok
-Hadi	Ma neachy stop ma hon
-Shami	Ok. Coming
-Hadi	Assalam o alikum Bhai 
-Shami	UFO
-Hadi	Ok
-Hadi	‎Missed voice call, ‎Click to call back
-Shami	Düsseldorf dekhne jana he aj sham?
-Hadi	Kitny bjy
-Shami	7:30 se 11 bje tak
-Hadi	Yar I'll update you
-Hadi	Insha Allah
-Hadi	Ma just ek cheez confirm kerna chta
-Hadi	Wo ker k btata apko
-Shami	Okay, take your time
-Hadi	.
-Shami	Me aur Ali
-Shami	Hmm
-Shami	Yaha se nikalna tha
-Hadi	‎This message was deleted.
-Shami	7:55 pm
-Hadi	Sahi ho gya ap logh nikal gay?
-Shami	G
-Hadi	Ok
-Shami	Package krwaya ya nai
-Hadi	Kerwa lia bhai
-Hadi	Ma apko insha Allah join keronga
-Hadi	Nikal raha ghr sy
-Shami	Okay
-Hadi	Destination btana
-Hadi	Dus HBF?
-Shami	Yes
-Hadi	Or bag hy pas ap k?
-Shami	Nai
-Shami	Kidr pohnche
-Hadi	Re11 my hon
-Hadi	40 min tak dus hbf
-Shami	Okay
-Hadi	BHAI ap logh ghomy ma ap sy location munghwa longa 21.24 bta raha arrival time.. hbf
-Shami	Okay
-Shami	Rush boht he
-Shami	Plz don't panic and keep me updated
-Hadi	Ok Bhai
-Hadi	10 minutes py ic stop py a jaonga
-Hadi	U75 my hon
-Hadi	Too kuch Rush 🤯
-Shami	Ok
-Shami	Agy bhi boht rush he😅
-Shami	It would be a miracle if we could find each other😅
-Shami	Enjoy😅
-Shami	I think first wala
-Shami	No
+Shami	Hm
+Hadi	Koi achi baat batao
+Shami	Time will pass.
+Hadi	Thanks
+Shami	Welcome
+Hadi	Muje reels send karo
+Shami	Pehle ap karo
+Hadi	😏
+Shami	😏😏😏
