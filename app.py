@@ -5,7 +5,7 @@ import os
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Chat with Usama", page_icon="💬")
-st.title("💬 Chat with Usama'")
+st.title("💬 Chat with Usama")
 
 # --- 1. SETUP API & LOAD DATA ---
 # (Best practice: Store your key in a .env file or Streamlit secrets for production)
